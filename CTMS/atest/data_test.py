@@ -4,4 +4,4 @@
 @Author  : zhx
 @FileName: data_test.py
 """
-print(11111111111122211)
+print(11133322445552222211211)

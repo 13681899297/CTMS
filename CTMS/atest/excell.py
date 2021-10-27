@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-""" 
-@Time    : 2021/10/27 15:27
-@Author  : zhx
-@FileName: excell.py
-"""
 
 """"
 excel的数据驱动实现：
