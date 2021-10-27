@@ -1,6 +1,3 @@
-#  ******
-# author:zhx
-# @Time:2020/12/4
 
 from openpyxl import load_workbook
 from openpyxl.worksheet.worksheet import Worksheet
